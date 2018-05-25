@@ -13,7 +13,9 @@ if you following the codes line by line in main.ipynb as jupyter notebook or oth
 i'm sure you will understand, about Linear regression as i did 
 
 <hr/>
+
 ### Environment
+
  - OS X
  
  - anaconda 4.5.2
